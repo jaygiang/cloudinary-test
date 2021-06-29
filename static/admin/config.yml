@@ -5,6 +5,12 @@ backend:
 media_folder: content/assets
 public_folder: ../assets
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: du9yhowdr
+    api_key: 937339823723728
+
 collections:
   - name: blog
     label: Blog
